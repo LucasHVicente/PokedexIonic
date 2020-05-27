@@ -5,10 +5,10 @@ Pokedex feita com o framework ionic.
 
 -------------------------------------------------
 # Ionic framework
-version: 5
-install ionic with: npm install -g @ionic/cli
-To run the aplication: ionic serve
+version: 5<br>
+install ionic with: npm install -g @ionic/cli<br>
+To run the aplication: ionic serve<br>
 
-versão: 5
-instalar o ionic: npm install -g @ionic/cli
+versão: 5<br>
+instalar o ionic: npm install -g @ionic/cli<br>
 para rodar a aplicação: ionic serve
