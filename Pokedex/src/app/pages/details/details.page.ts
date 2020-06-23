@@ -19,7 +19,10 @@ export class DetailsPage implements OnInit {
     this.pokeService.getPokeDetails(index).subscribe(details=>{
       console.log('Details: ', details);
       this.details = details;
+      this.details.images.reverse()
     })
+    
+
 
   }
 
