@@ -18,6 +18,10 @@ export class HomePage implements OnInit{
     this.loadPokemon();
   }
 
+  goToLink(url: string){
+    window.open(url, "_blank");
+}
+
   onSearchChange(e){
     let value = e.detail.value;
     if(value==''){
