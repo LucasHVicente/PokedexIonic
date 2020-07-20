@@ -3,6 +3,8 @@ Pokedex made with ionic framework.
 
 Pokedex feita com o framework ionic.
 
+Link: https://pokedex-ionic.netlify.app/
+
 -------------------------------------------------
 # Ionic framework
 Require node.js<br>
