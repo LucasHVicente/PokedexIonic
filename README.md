@@ -7,12 +7,11 @@ Link: https://pokedex-ionic.netlify.app/
 
 -------------------------------------------------
 # Ionic framework
-Require node.js<br>
+https://ionicframework.com/<br>
 version: 5<br>
 install ionic with: npm install -g @ionic/cli<br>
 To run the aplication: ionic serve<br>
 
-Requer o node.js<br>
 versão: 5<br>
 instalar o ionic: npm install -g @ionic/cli<br>
 para rodar a aplicação: ionic serve
